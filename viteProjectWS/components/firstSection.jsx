@@ -5,7 +5,8 @@ const divStyle = {
     color: 'white',
     height: '100vh',  
     width: '100vw',
-    margin : '50px'
+    margin : '50px',
+    overflow: "hidden"
   };
 
 const name = 'Josh Perez';
