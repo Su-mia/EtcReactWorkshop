@@ -1,12 +1,12 @@
-import FirstSection from '../components/firstSection'
-import SecondSection from '../components/secondSection'
-import ThirdSection from '../components/ThirdSection'
+import FirstSection from './components/FirstSection'
+import SecondSection from './components/SecondSection'
+import ThirdSection from './components/ThirdSection'
 
 function App() {
 
   return (
     <>
-    {/* <FirstSection/> */}
+    <FirstSection/>
     <SecondSection/>
     <ThirdSection/>
     </>

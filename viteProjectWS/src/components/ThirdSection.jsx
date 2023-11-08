@@ -1,4 +1,4 @@
-import "../src/styles/third_section.css";
+import "../styles/third_section.css";
 import Card from "./Card";
 
 const data = [

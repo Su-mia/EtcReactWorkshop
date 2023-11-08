@@ -16,7 +16,7 @@ const Card = ({
   } else if (index === 1) {
     color = "#F1A800";
   } else {
-    color = "#008000";
+    color = "#008000"; 
   }
 
   return (

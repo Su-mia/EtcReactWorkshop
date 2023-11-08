@@ -1,5 +1,4 @@
 // rafce
-import React from 'react'
 
 const divStyle = {
     color: 'white',
